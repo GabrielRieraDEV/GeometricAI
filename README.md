@@ -15,7 +15,7 @@ Una aplicación interactiva que combina reconocimiento de gestos con MediaPipe y
 
 ## 🚀 Requisitos
 
-- Versión de Python: 3.8 o superior
+- Versión de Python: 3.8 menor a 3.13
 
 ```bash
 pip install -r requirements.txt
@@ -33,9 +33,6 @@ python geometric_ai.py
 1. Ejecuta la aplicación.
 2. Usa la barra lateral para generar figuras.
 3. Usa gestos para seleccionarlas o moverlas (índice extendido y cerrar la mano).
-
-## 📸 Ejemplo
-*(Incluye aquí una captura de pantalla si puedes)*
 
 ## 📄 Licencia
 MIT
